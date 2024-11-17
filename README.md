@@ -1,4 +1,4 @@
 # Edureka-demo
 This is my first Git Repository
 <br>
-Author - Abbas
+writer - Abbas
